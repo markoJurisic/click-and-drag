@@ -1,2 +1,2 @@
 # click-and-drag
-click and drag element for horizontal scroll
+click and drag element to scroll horizontally.
